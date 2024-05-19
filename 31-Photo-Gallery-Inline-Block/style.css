@@ -1,0 +1,29 @@
+body {
+    background: #eee;
+}
+
+.gallery {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+li {
+    border-width: .4rem;
+    border-style: solid;
+    border-color: black;
+    list-style: none;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0.5rem;
+    padding: 1rem;
+}
+
+img {
+    max-width: 300px;
+    display: block;
+    height: auto;
+}
+
+
+  
